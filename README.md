@@ -11,6 +11,7 @@ SurajBhandari5110/SurajBhandari5110 is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 <h2> Hi, I'm Suraj Bhandari! <img src="<iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>" </h2>
+<div class="tenor-gif-embed" data-postid="16596559" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559"></a>from <a href="https://tenor.com/search/code-gifs"></a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <p><em>Full Stack Developer at <a href="https://acelucid.com/">Acelucid Technologies</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>

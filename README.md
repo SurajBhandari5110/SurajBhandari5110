@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">
   <img src="https://github.com/SurajBhandari5110/SurajBhandari5110/blob/main/suraj.svg" alt="Suraj Bhandari" />
 </h1>
-<h2> Hi, I'm Suraj Bhadnri! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Suraj Bhandari! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif](https://tenor.com/view/hack-hacking-hacker-hackerman-programmer-gif-13167413482750165588)" >
 
 <p><em>Full Stack Developer at <a href="https://acelucid.com/">Acelucid Technologies</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">

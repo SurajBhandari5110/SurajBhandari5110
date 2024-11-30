@@ -2,6 +2,9 @@
 SurajBhandari5110/SurajBhandari5110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
+</h1>
 <h2> Hi, I'm Suraj Bhadnri! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif](https://tenor.com/view/hack-hacking-hacker-hackerman-programmer-gif-13167413482750165588)" >
 

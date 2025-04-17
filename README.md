@@ -52,15 +52,15 @@ const suraj = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ace-SurajBhandari&show_icons=true&theme=radical" alt="Suraj's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SurajBhandari5110&show_icons=true&theme=radical" alt="Suraj's GitHub stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ace-SurajBhandari&theme=radical" alt="Suraj's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SurajBhandari5110&theme=radical" alt="Suraj's GitHub streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ace-SurajBhandari&layout=compact&theme=radical" alt="Suraj's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajBhandari5110&layout=compact&theme=radical" alt="Suraj's top languages" />
 </div>
 
 ## 🌱 Currently Learning
@@ -111,7 +111,7 @@ I'm currently taking on the #100DaysOfCode challenge, focusing on Python develop
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Ace-SurajBhandari&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=SurajBhandari5110&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 

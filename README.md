@@ -56,7 +56,7 @@ const suraj = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=SurajBhandari5110&theme=radical" alt="Suraj's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SurajBhandari5110&theme=radical" alt="Suraj's GitHub streak" />
 </div>
 
 <div align="center">
@@ -116,10 +116,10 @@ I'm currently taking on the #100DaysOfCode challenge, focusing on Python develop
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/SurajBhandari5110/SurajBhandari5110/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <!--
-Ace-SurajBhandari/Ace-SurajBhandari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SurajBhandari5110/SurajBhandari5110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 -->

@@ -7,10 +7,9 @@
 ## 💻 Full Stack Developer | Software Engineer
 
 > Crafting elegant solutions to complex problems, one line of code at a time.
+## 🚀 About Me
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-## 🚀 About Me
 
 ```javascript
 const suraj = {

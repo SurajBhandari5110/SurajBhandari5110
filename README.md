@@ -56,7 +56,7 @@ const suraj = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SurajBhandari5110&theme=radical" alt="Suraj's GitHub streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SurajBhandari5110&theme=radical" alt="Suraj's GitHub activity graph" />
 </div>
 
 <div align="center">

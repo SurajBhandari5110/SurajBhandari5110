@@ -56,7 +56,7 @@ const suraj = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SurajBhandari5110&theme=radical" alt="Suraj's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=SurajBhandari5110&theme=radical" alt="Suraj's GitHub streak" />
 </div>
 
 <div align="center">
@@ -106,7 +106,7 @@ I'm currently taking on the #100DaysOfCode challenge, focusing on Python develop
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ace-SurajBhandari&color=blueviolet&style=flat-square" alt="Profile views counter" />
+  <img src="https://komarev.com/ghpvc/?username=SurajBhandari5110&color=blueviolet&style=flat-square" alt="Profile views counter" />
 </div>
 
 <div align="center">

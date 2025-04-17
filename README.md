@@ -118,8 +118,3 @@ I'm currently taking on the #100DaysOfCode challenge, focusing on Python develop
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-
-<!--
-SurajBhandari5110/SurajBhandari5110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--->

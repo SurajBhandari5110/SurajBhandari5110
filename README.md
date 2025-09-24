@@ -49,10 +49,6 @@ const suraj = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SurajBhandari5110&theme=radical" alt="Suraj's GitHub activity graph" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajBhandari5110&layout=compact&theme=radical" alt="Suraj's top languages" />
 </div>
 

@@ -1,5 +1,3 @@
-# 👋 Hi there, I'm Suraj Bhandari
-> Crafting elegant solutions to complex problems, one line of code at a time.
 ## 💻 Full Stack Developer | Software Engineer
 
 > Crafting elegant solutions to complex problems, one line of code at a time.

@@ -1,6 +1,8 @@
 # 👋 Hi there, I'm Suraj Bhandari
+## 💻 Full Stack Developer | Software Engineer
 
-<div align="left">
+> Crafting elegant solutions to complex problems, one line of code at a time.
+<div align="right">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
 

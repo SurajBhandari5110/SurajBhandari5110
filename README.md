@@ -44,7 +44,7 @@ const suraj = {
 
 ## 📊 GitHub Stats
 
-<div align="center" justify="center">
+<div align="center" justify="center" gap="12px">
   <img src="https://github-readme-stats.vercel.app/api?username=SurajBhandari5110&show_icons=true&theme=radical" alt="Suraj's GitHub stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajBhandari5110&layout=compact&theme=radical" alt="Suraj's top languages" />
 </div>
 
